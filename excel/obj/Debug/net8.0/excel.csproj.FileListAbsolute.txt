@@ -1,0 +1,14 @@
+C:\Users\olek\source\repos\excel\excel\bin\Debug\net8.0\excel.exe
+C:\Users\olek\source\repos\excel\excel\bin\Debug\net8.0\excel.deps.json
+C:\Users\olek\source\repos\excel\excel\bin\Debug\net8.0\excel.runtimeconfig.json
+C:\Users\olek\source\repos\excel\excel\bin\Debug\net8.0\excel.dll
+C:\Users\olek\source\repos\excel\excel\bin\Debug\net8.0\excel.pdb
+C:\Users\olek\source\repos\excel\excel\obj\Debug\net8.0\excel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olek\source\repos\excel\excel\obj\Debug\net8.0\excel.AssemblyInfoInputs.cache
+C:\Users\olek\source\repos\excel\excel\obj\Debug\net8.0\excel.AssemblyInfo.cs
+C:\Users\olek\source\repos\excel\excel\obj\Debug\net8.0\excel.csproj.CoreCompileInputs.cache
+C:\Users\olek\source\repos\excel\excel\obj\Debug\net8.0\excel.dll
+C:\Users\olek\source\repos\excel\excel\obj\Debug\net8.0\refint\excel.dll
+C:\Users\olek\source\repos\excel\excel\obj\Debug\net8.0\excel.pdb
+C:\Users\olek\source\repos\excel\excel\obj\Debug\net8.0\excel.genruntimeconfig.cache
+C:\Users\olek\source\repos\excel\excel\obj\Debug\net8.0\ref\excel.dll
